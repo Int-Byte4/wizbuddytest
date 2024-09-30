@@ -227,27 +227,23 @@
 ## 📍 04_subs board Page
 <details>
  <summary>대타 게시글 전체 조회</summary>
-
+<img src="images/gif/subsboard/01_대타_전체조회.gif">
 </details>
 <details>
  <summary>대타 게시글 1개 조회</summary>
- 
-</details>
-<details>
- <summary>매장별 대타 게시글 전체 조회</summary>
-
+ <img src="images/gif/subsboard/02_대타_단건조회.gif">
 </details>
 <details>
  <summary>대타 게시글 등록</summary>
-
+<img src="images/gif/subsboard/03_대타_등록.gif">
 </details>
 <details>
  <summary>대타 게시글 수정</summary>
-
+<img src="images/gif/subsboard/04_대타_수정.gif">
 </details>
 <details>
  <summary>대타 게시글 삭제</summary>
-
+<img src="images/gif/subsboard/05_대타_삭제.gif">
 </details>
 
 ## 📍 05_comment Page
@@ -273,36 +269,38 @@
 
 ## 📍 06_schedule Page
 <details>
- <summary>전체 스케줄 조회</summary>
+ <summary>전체 스케줄 조회, 한 주의 스케줄 조회</summary>
+<img src="images/gif/schedule/1_schedule_select.gif">
 
 </details>
-<details>
- <summary>한 주의 스케줄 상세 조회</summary>
 
-</details>
 <details>
- <summary>직원 별 한 주의 스케줄 상세 조회</summary>
+ <summary>직원 별 한 주의 스케줄 상세 조회 (추후 추가 예정) </summary>
 
 </details>
 <details>
  <summary>한 주의 스케줄-스케줄 등록</summary>
+<img src="images/gif/schedule/2_schedule_register.gif">
  
 </details>
 <details>
  <summary>한 주의 스케줄-직원 등록</summary>
+<img src="images/gif/schedule/4_employee_register.gif">
 
 </details>
 <details>
  <summary>스케줄 수정</summary>
+<img src="images/gif/schedule/5_edit_schedule.gif">
   
 </details>
 <details>
- <summary>댓글 채택으로 스케줄 수정</summary>
+ <summary>댓글 채택으로 스케줄 수정 (추후 추가 예정)</summary>
 
 </details>
 
 <details>
  <summary>스케줄 삭제</summary>
+<img src="images/gif/schedule/3_delete_schedule.gif">
 </details>
 
 ## 📍 07_manual board Page
