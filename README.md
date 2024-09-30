@@ -1,12 +1,12 @@
 # 🔗 위즈버디 _ WizBuddy
 
- <img src="images/1.개요/1.위즈버디_메인.png" alt="배너 이미지 칸" width="900" height="470">
+ <img src="images/개요/1.위즈버디_메인.png" alt="배너 이미지 칸" width="900" height="470">
 <br>
 
 
 # 🐼 Group 4 Team Member - `Int4_Byte`
 
-| <img src="images/6.조원/조제훈.png" height=130/> | <img src="images/6.조원/백경석.jpg" height=130/> | <img src="images/6.조원/유제은.jpg" height=130/> | <img src="images/6.조원/이나현.jpg" height=130/> | <img src="images/6.조원/이서현.jpg" height=130/> | 
+| <img src="images/조원/조제훈.png" height=130/> | <img src="images/조원/백경석.jpg" height=130/> | <img src="images/조원/유제은.jpg" height=130/> | <img src="images/조원/이나현.jpg" height=130/> | <img src="images/조원/이서현.jpg" height=130/> | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            조제훈                            |                            백경석                            |                            유제은                            |                            이나현                            |                            이서현                            |
 | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/JoJeHuni) <br>` ESFJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Hellin22) <br>` ENTP `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/YuJeeun) <br>` INFP `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/sksmsdlskgus) <br>` ENTJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/sh694090) <br>` INFJ `|
