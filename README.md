@@ -448,62 +448,13 @@
  <summary>특정 체크리스트 내 특정 업무 완료 삭제</summary>
 
 </details>
-
-# 🚩 Swagger - API 명세서
-<details>
-<summary>사용자 컨트롤러</summary>
-
-</details>
-<details>
-<summary>업무 컨트롤러</summary>
-
-</details>
-<details>
-<summary>체크리스트 컨트롤러</summary>
-
-</details>
-<details>
-<summary>체크리스트 별 업무 컨트롤러</summary>
-
-</details>
-<details>
-<summary>매장 컨트롤러</summary>
-
-</details>
-<details>
-<summary>매장 별 직원 컨트롤러</summary>
-
-</details>
-<details>
-<summary>업무 일정 컨트롤러</summary>
-
-</details>
-<details>
-<summary>공지사항 게시판 컨트롤러</summary>
-
-</details>
-<details>
-<summary>공지사항 게시판 좋아요 컨트롤러</summary>
-
-</details>
-<details>
-<summary>매뉴얼 게시판 컨트롤러</summary>
-
-</details>
-<details>
-<summary>매뉴얼 게시판 좋아요 컨트롤러</summary>
-
-</details>
-<details>
-<summary>댓글 컨트롤러</summary>
-
-</details>
 <br>
 <br>
 
 # 🚩추후 보완 사항
 
-
+<br>
+<br>
 # 📜 동료평가
 **1. 조제훈**
 
