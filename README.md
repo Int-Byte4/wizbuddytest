@@ -108,7 +108,10 @@
  
 </details>
 
-# 🚩 API Test
+
+<br><br>
+
+# 🚩테스트 계획 및 결과 보고서
 ## 📍 01_user
 <details>
  <summary>관리자 로그인</summary>
@@ -495,6 +498,11 @@
 <summary>댓글 컨트롤러</summary>
 
 </details>
+<br>
+<br>
+
+# 🚩추후 보완 사항
+
 
 # 📜 동료평가
 **1. 조제훈**
