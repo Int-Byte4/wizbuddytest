@@ -321,7 +321,7 @@
 ## 📍 07_manual board Page
 <details>
  <summary>매뉴얼 게시판 전체 조회</summary>
-<img src="images/gif/board/01_매뉴얼_전체조회.gif>
+<img src="images/gif/board/01_매뉴얼_전체조회.gif">
 </details>
 <details>
  <summary>매뉴얼 게시글 단 건 조회</summary>
