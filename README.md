@@ -1,12 +1,12 @@
 # 🔗 위즈버디 _ WizBuddy
 
- <img src="images/1.개요/1.위즈버디_메인.png" alt="배너 이미지 칸" width="900" height="470">
+ <img src="images/개요/1.위즈버디_메인.png" alt="배너 이미지 칸" width="900" height="470">
 <br>
 
 
 # 🐼 Group 4 Team Member - `Int4_Byte`
 
-| <img src="images/6.조원/조제훈.png" height=130/> | <img src="images/6.조원/백경석.jpg" height=130/> | <img src="images/6.조원/유제은.jpg" height=130/> | <img src="images/6.조원/이나현.jpg" height=130/> | <img src="images/6.조원/이서현.jpg" height=130/> | 
+| <img src="images/조원/조제훈.png" height=130/> | <img src="images/조원/백경석.jpg" height=130/> | <img src="images/조원/유제은.jpg" height=130/> | <img src="images/조원/이나현.jpg" height=130/> | <img src="images/조원/이서현.jpg" height=130/> | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            조제훈                            |                            백경석                            |                            유제은                            |                            이나현                            |                            이서현                            |
 | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/JoJeHuni) <br>` ESFJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Hellin22) <br>` ENTP `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/YuJeeun) <br>` INFP `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/sksmsdlskgus) <br>` ENTJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/sh694090) <br>` INFJ `|
@@ -46,12 +46,12 @@
 
 ## :two: 프로젝트 필요성
 ### 1. 사장님
-<img src="images/1.개요/2.필요성_1.png" height=400/> <br>
+<img src="images/개요/2.필요성_1.png" height=400/> <br>
 - 23년 12월 매장을 운영하고 있는 사장님을 대상으로 설문조사를 시행한 결과, 아르바이트생의 근태관리가 사업장을 운영할 때 어려운 점 1위로 선정되었습니다.
 - 이를 바탕으로, 사장님들은 매장을 운영하면서도 아르바이트생도 관리해야 한다는 어려움을 겪고 있는 것을 알 수 있었습니다.
 
 ### 2. 아르바이트생
-<img src="images/1.개요/3.필요성_2.jpg" height=400/> <br>
+<img src="images/개요/3.필요성_2.jpg" height=400/> <br>
 - 아르바이트를 할 때, 대부분의 사업장에서 공지사항 전달, 스케줄 관리를 위해 카카오톡을 사용합니다.
 - 20년 12월 아르바이트생을 대상으로 한 설문 조사 결과 5명 중 4명이 단톡방으로 인해 스트레스를 받는다는 결과를 볼 수 있었습니다.<br><br>
 
@@ -61,16 +61,16 @@
 
 ## :three: 유사 서비스 및 차별화 전략
 ### 1. 워키도키
-<img src="images/1.개요/4.유사서비스_1.png" width=800> <br>
+<img src="images/개요/4.유사서비스_1.png" width=800> <br>
 - 아르바이트 추천, 업무 체크리스트 등의 기능 제공
 
 ### 2. 샵솔
- <img src="images/1.개요/5.유사서비스_2.png" width=700>
- <img src="images/1.개요/6.유사서비스_3.png" width=300> <br>
+ <img src="images/개요/5.유사서비스_2.png" width=700>
+ <img src="images/개요/6.유사서비스_3.png" width=300> <br>
 - 출퇴근 관리, 자동 급여 계산, 급여 명세서, 체크리스트, 업무일지, 바코드 인식을 통한 유통기한 관리 등의 기능 제공
 
 ### 3. 차별화 전략
-<img src="images/1.개요/7.차별화전략.png" height=200>
+<img src="images/개요/7.차별화전략.png" height=200>
 
 ## :four: 프로젝트 주요 기능
 ### 1. 업무 체크리스트
@@ -87,8 +87,8 @@
 
 
 # 🚩 WBS
-### [🔗 WBS 바로가기](https://docs.google.com/spreadsheets/d/11AirCDIcRRg-C22BVh2cYn6UemvdJoVKG5yCrohsYk4/edit?gid=363407194#gid=363407194)
-<img src="images/1.개요/8.WBS.png" width=1000 height=500><br>
+### [🔗 WBS 바로가기](https://docs.google.com/spreadsheets/d/11AirCDIcRRg-C22BVh2cYn6UemvdJoVKG5yCrohsYk4/edit?gid=1661620539#gid=1661620539)
+<img src="images/개요/Intbyte_WBS.jpeg" width=1000 height=500><br>
 
 
 <br><br>
@@ -96,8 +96,8 @@
 
 # 🚩 요구사항
 ### [🔗 요구사항 정의서 바로가기](https://docs.google.com/spreadsheets/d/11AirCDIcRRg-C22BVh2cYn6UemvdJoVKG5yCrohsYk4/edit?gid=0#gid=0)
-<img src="images/1.개요/9.요구사항_1.png" width=1000 height=500><br>
-<img src="images/1.개요/10.요구사항_2.png" width=1000 height=500>
+<img src="images/개요/9.요구사항_1.png" width=1000 height=500><br>
+<img src="images/개요/10.요구사항_2.png" width=1000 height=500>
 
 
 <br><br>
@@ -379,81 +379,30 @@
     
 </details>
 
-## 📍 10_task Page
+## 📍 10_task, checklist Page
 <details>
- <summary>특정 매장의 모든 업무 조회</summary>
-
+ <summary>(고정, 비고정)업무 등록 및 조회</summary>
 </details>
 <details>
- <summary>특정 업무 조회</summary>
-
+ <summary>체크리스트 등록 및 조회</summary>
 </details>
 <details>
- <summary>특정 매장의 고정 업무 조회</summary>
-
+ <summary>체크리스트 수정 및 삭제</summary>
 </details>
 <details>
- <summary>특정 매장의 비고정 업무 조회</summary>
-
+ <summary>체크리스트 업무 완료표시</summary>
 </details>
 <details>
- <summary>특정 매장에 업무 1개 추가</summary>
-
+ <summary>업무 수정</summary>
 </details>
 <details>
- <summary>특정 매장의 업무 1개 수정</summary>
-
+ <summary>업무 삭제</summary>
 </details>
 <details>
- <summary>특정 매장의 업무 1개 삭제</summary>
+ <summary>role에 따른 다른 화면 구성</summary>
 </details>
 
-## 📍 11_checklist Page
-<details>
- <summary>특정 매장의 모든 체크리스트 조회</summary>
 
-</details>
-<details>
- <summary>특정 체크리스트 조회</summary>
-
-</details>
-<details>
- <summary>특정 매장에 체크리스트 1개 추가</summary>
-  
-</details>
-<details>
- <summary>특정 매장의 특정 체크리스트 수정</summary>
-  
-</details>
-<details>
- <summary>특정 매장의 특정 체크리스트 삭제</summary>
-</details>
-
-## 📍 12_task per checklist Page
-<details>
- <summary>특정 체크리스트 내 전체 업무 조회</summary>
-
-</details>
-<details>
- <summary>특정 체크리스트 내 완료 업무 조회</summary>
-
-</details>
-<details>
- <summary>특정 체크리스트 내 미완료 업무 조회</summary>
- 
-</details>
-<details>
- <summary>특정 체크리스트 내 업무 추가</summary>
-
-</details>
-<details>
- <summary>특정 체크리스트 내 특정 업무 완료 표시 (수정)</summary>
- 
-</details>
-<details>
- <summary>특정 체크리스트 내 특정 업무 완료 삭제</summary>
-
-</details>
 <br>
 <br>
 
