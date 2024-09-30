@@ -141,7 +141,8 @@
 
 ## 📍 00_rendering Page
 <details>
- <summary>관리자 로그인</summary>
+ <summary>렌더링 페이지</summary>
+ <img src="images/gif/figma/렌더링.gif">
 </details>
 
 ## 📍 01_user Page
@@ -247,24 +248,23 @@
 
 ## 📍 05_comment Page
 <details>
- <summary>댓글 전체 조회</summary>
-
-</details>
-<details>
- <summary>댓글 1개 조회</summary>
-
-</details>
-<details>
  <summary>게시글 별 댓글 전체 조회</summary>
-
+ <img src="images/gif/comment/전체 조회.gif">
 </details>
-<details>
- <summary>직원별 댓글 전체 조회</summary>
 
+<details>
+ <summary>게시글 별 댓글 등록</summary>
+ <img src="images/gif/comment/댓글 등록.gif">
 </details>
-<details>
- <summary>댓글 등록</summary>
 
+<details>
+ <summary>게시글 별 댓글 수정</summary>
+ <img src="images/gif/comment/댓글 수정.gif">
+</details>
+
+<details>
+ <summary>게시글 별 댓글 삭제</summary>
+<img src="images/gif/comment/댓글 삭제.gif">
 </details>
 
 ## 📍 06_schedule Page
