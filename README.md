@@ -88,7 +88,7 @@
 
 # 🚩 WBS
 ### [🔗 WBS 바로가기](https://docs.google.com/spreadsheets/d/11AirCDIcRRg-C22BVh2cYn6UemvdJoVKG5yCrohsYk4/edit?gid=1661620539#gid=1661620539)
-<img src="images/개요/8.WBS.png" width=1000 height=500><br>
+<img src="images/개요/Intbyte_WBS.jpeg" width=1000 height=500><br>
 
 
 <br><br>
