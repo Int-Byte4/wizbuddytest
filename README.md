@@ -226,27 +226,23 @@
 ## 📍 04_subs board Page
 <details>
  <summary>대타 게시글 전체 조회</summary>
-
+<img src="images/gif/subsboard/01_대타_전체조회.gif">
 </details>
 <details>
  <summary>대타 게시글 1개 조회</summary>
- 
-</details>
-<details>
- <summary>매장별 대타 게시글 전체 조회</summary>
-
+ <img src="images/gif/subsboard/02_대타_단건조회.gif">
 </details>
 <details>
  <summary>대타 게시글 등록</summary>
-
+<img src="images/gif/subsboard/03_대타_등록.gif">
 </details>
 <details>
  <summary>대타 게시글 수정</summary>
-
+<img src="images/gif/subsboard/04_대타_수정.gif">
 </details>
 <details>
  <summary>대타 게시글 삭제</summary>
-
+<img src="images/gif/subsboard/05_대타_삭제.gif">
 </details>
 
 ## 📍 05_comment Page
