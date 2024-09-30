@@ -321,62 +321,54 @@
 ## 📍 07_manual board Page
 <details>
  <summary>매뉴얼 게시판 전체 조회</summary>
-
-</details>
-<details>
- <summary>매장별 매뉴얼 게시판 조회</summary>
-
+<img src="images/gif/board/01_매뉴얼_전체조회.gif>
 </details>
 <details>
  <summary>매뉴얼 게시글 단 건 조회</summary>
-  
+ <img src="images/gif/board/02_매뉴얼_단건조회.gif">
 </details>
 <details>
  <summary>매뉴얼 게시글 등록</summary>
-
+<img src="images/gif/board/03_매뉴얼_등록.gif">
 </details>
 <details>
  <summary>매뉴얼 게시글 수정</summary>
-
+<img src="images/gif/board/04_매뉴얼_수정.gif">
 </details>
 <details>
  <summary>매뉴얼 게시글 삭제</summary>
-
+<img src="images/gif/board/05_매뉴얼_삭제.gif">
 </details>
 
 ## 📍 08_notice board Page
 <details>
  <summary>공지사항 게시판 전체 조회</summary>
-
-</details>
-<details>
- <summary>매장별 공지사항 게시판 조회</summary>
-
+<img src="images/gif/board/01_공지사항_전체조회.gif">
 </details>
 <details>
  <summary>공지사항 게시판 단 건 조회</summary>
-
+<img src="images/gif/board/02_공지사항_단건조회.gif">
 </details>
 <details>
  <summary>공지사항 게시글 등록</summary>
-
+<img src="images/gif/board/03_공지사항_등록.gif">
 </details>
 <details>
  <summary>공지사항 게시글 수정</summary>
-
+<img src="images/gif/board/04_공지사항_수정.gif">
 </details>
 <details>
  <summary>공지사항 게시글 삭제</summary>
-
+<img src="images/gif/board/05_공지사항_삭제.gif">
 </details>
 
 ## 📍 09_like Page
 <details> 
  <summary>매뉴얼 게시글 좋아요 등록</summary>
-  
+ <img src="images/gif/board/06_매뉴얼_좋아요.gif">
 </details><details>
  <summary>공지사항 게시글 좋아요 등록</summary>
-    
+ <img src="images/gif/board/06_공지사항_좋아요.gif">
 </details>
 
 ## 📍 10_task, checklist Page
