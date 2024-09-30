@@ -381,25 +381,52 @@
 
 ## 📍 10_task, checklist Page
 <details>
- <summary>(고정, 비고정)업무 등록 및 조회</summary>
+ <summary>
+  (고정, 비고정)업무 등록 및 조회
+ </summary>
+ <img src="images/gif/checklist/1. (고정, 비고정)업무 등록 및 조회.gif"> 
 </details>
+
 <details>
- <summary>체크리스트 등록 및 조회</summary>
+ <summary>
+  체크리스트 등록 및 조회
+ </summary>
+ <img src="images/gif/checklist/2. 체크리스트 등록 및 조회.gif"> 
 </details>
+
 <details>
- <summary>체크리스트 수정 및 삭제</summary>
+ <summary>
+  체크리스트 수정 및 삭제
+ </summary>
+ <img src="images/gif/checklist/3. 체크리스트 수정 및 삭제.gif"> 
 </details>
+
 <details>
- <summary>체크리스트 업무 완료표시</summary>
+ <summary>
+  체크리스트 업무 완료표시
+ </summary>
+ <img src="images/gif/checklist/4. 체크리스트 업무 완료표시.gif">
 </details>
+
 <details>
- <summary>업무 수정</summary>
+ <summary>
+  업무 수정
+ </summary>
+ <img src="images/gif/checklist/5. 업무 수정.gif">
 </details>
+
 <details>
- <summary>업무 삭제</summary>
+ <summary>
+  업무 삭제
+ </summary>
+ <img src="images/gif/checklist/6. 업무 삭제.gif">
 </details>
+
 <details>
- <summary>role에 따른 다른 화면 구성</summary>
+ <summary>
+  role에 따른 다른 화면 구성
+ </summary>
+ <img src="images/gif/checklist/7. role에 따른 다른 화면 구성.gif">
 </details>
 
 
