@@ -116,90 +116,51 @@
 ## 📍 00_rendering Page
 <details>
  <summary>관리자 로그인</summary>
- 
 </details>
+
 ## 📍 01_user Page
 <details>
- <summary>관리자 로그인</summary>
- 
-</details>
-<details>
- <summary>관리자-사장 전체 조회</summary>
-
-</details>
-<details>
- <summary>관리자-직원 전체 조회</summary>
-  
-</details>
-<details>
- <summary>사장 조회</summary>
-
-</details>
-<details>
- <summary>직원 조회</summary>
-  
-</details>
-<details>
  <summary>사장 회원가입</summary>
-  
+<img src="images/gif/user/5. 사장 회원가입.gif">
 </details>
 <details>
  <summary>사장 로그인</summary>
-
-</details>
-<details>
- <summary>사장 정보수정</summary>
-
-</details>
-<details>
- <summary>사장 삭제 요청</summary>
-
+<img src="images/gif/user/6. 사장 로그인.gif">
 </details>
 <details>
  <summary>직원 회원가입</summary>
- 
+ <img src="images/gif/user/1. 직원_등록되지않은 아이디로 회원가입하기.gif">
+ <img src="images/gif/user/2. 직원_등록된 아이디로 회원가입 하기.gif">
 </details>
 <details>
  <summary>직원 로그인</summary>
-  
-</details>
-<details>
- <summary>직원 정보수정</summary>
- 
-</details>
-<details>
- <summary>직원 삭제 요청</summary>
-  
+  <img src="images/gif/user/4. 직원 로그인.gif">
 </details>
 
 ## 📍 02_shop Page
 <details>
- <summary>4번 사장 회원가입</summary>
- 
-</details>
-<details>
- <summary>4번 사장 로그인</summary>
-
+ <summary>사장 로그인</summary>
+<img src="images/gif/shop/1. 사장으로 로그인.gif">
 </details>
 <details>
  <summary>매장 등록</summary>
-
-</details>
-<details>
- <summary>매장 전체 조회</summary>
-
-</details>
-<details>
- <summary>매장 단 건 조회</summary>
-  
+<img src="images/gif/shop/2. 사장 매장 등록.gif">
 </details>
 <details>
  <summary>매장 수정</summary>
-
+<img src="images/gif/shop/3. 사장 매장 수정.gif">
 </details>
 <details>
  <summary>매장 삭제 요청</summary>
-
+<img src="images/gif/shop/4. 사장 매장 삭제.gif">
+</details>
+<details>
+ <summary>사장-직원 초대</summary>
+<img src="images/gif/shop/5. 사장 직원 초대.gif">
+</details>
+<details>
+ <summary>직원-초대 수락</summary>
+<img src="images/gif/shop/6. 직원 초대 수락.gif">
 </details>
 
 ## 📍 03_employee per shop Page
