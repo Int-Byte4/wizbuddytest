@@ -379,81 +379,30 @@
     
 </details>
 
-## 📍 10_task Page
+## 📍 10_task, checklist Page
 <details>
- <summary>특정 매장의 모든 업무 조회</summary>
-
+ <summary>(고정, 비고정)업무 등록 및 조회</summary>
 </details>
 <details>
- <summary>특정 업무 조회</summary>
-
+ <summary>체크리스트 등록 및 조회</summary>
 </details>
 <details>
- <summary>특정 매장의 고정 업무 조회</summary>
-
+ <summary>체크리스트 수정 및 삭제</summary>
 </details>
 <details>
- <summary>특정 매장의 비고정 업무 조회</summary>
-
+ <summary>체크리스트 업무 완료표시</summary>
 </details>
 <details>
- <summary>특정 매장에 업무 1개 추가</summary>
-
+ <summary>업무 수정</summary>
 </details>
 <details>
- <summary>특정 매장의 업무 1개 수정</summary>
-
+ <summary>업무 삭제</summary>
 </details>
 <details>
- <summary>특정 매장의 업무 1개 삭제</summary>
+ <summary>role에 따른 다른 화면 구성</summary>
 </details>
 
-## 📍 11_checklist Page
-<details>
- <summary>특정 매장의 모든 체크리스트 조회</summary>
 
-</details>
-<details>
- <summary>특정 체크리스트 조회</summary>
-
-</details>
-<details>
- <summary>특정 매장에 체크리스트 1개 추가</summary>
-  
-</details>
-<details>
- <summary>특정 매장의 특정 체크리스트 수정</summary>
-  
-</details>
-<details>
- <summary>특정 매장의 특정 체크리스트 삭제</summary>
-</details>
-
-## 📍 12_task per checklist Page
-<details>
- <summary>특정 체크리스트 내 전체 업무 조회</summary>
-
-</details>
-<details>
- <summary>특정 체크리스트 내 완료 업무 조회</summary>
-
-</details>
-<details>
- <summary>특정 체크리스트 내 미완료 업무 조회</summary>
- 
-</details>
-<details>
- <summary>특정 체크리스트 내 업무 추가</summary>
-
-</details>
-<details>
- <summary>특정 체크리스트 내 특정 업무 완료 표시 (수정)</summary>
- 
-</details>
-<details>
- <summary>특정 체크리스트 내 특정 업무 완료 삭제</summary>
-
-</details>
 <br>
 <br>
 
