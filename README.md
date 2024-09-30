@@ -112,7 +112,13 @@
 <br><br>
 
 # 🚩테스트 계획 및 결과 보고서
-## 📍 01_user
+
+## 📍 00_rendering Page
+<details>
+ <summary>관리자 로그인</summary>
+ 
+</details>
+## 📍 01_user Page
 <details>
  <summary>관리자 로그인</summary>
  
@@ -166,7 +172,7 @@
   
 </details>
 
-## 📍 02_shop
+## 📍 02_shop Page
 <details>
  <summary>4번 사장 회원가입</summary>
  
@@ -196,7 +202,7 @@
 
 </details>
 
-## 📍 03_employee per shop
+## 📍 03_employee per shop Page
 <details>
  <summary>13번 직원 회원가입</summary>
 
@@ -230,7 +236,7 @@
 
 </details>
 
-## 📍 04_subs board
+## 📍 04_subs board Page
 <details>
  <summary>대타 게시글 전체 조회</summary>
 
@@ -256,7 +262,7 @@
 
 </details>
 
-## 📍 05_comment
+## 📍 05_comment Page
 <details>
  <summary>댓글 전체 조회</summary>
 
@@ -278,7 +284,7 @@
 
 </details>
 
-## 📍 06_schedule
+## 📍 06_schedule Page
 <details>
  <summary>전체 스케줄 조회</summary>
 
@@ -312,7 +318,7 @@
  <summary>스케줄 삭제</summary>
 </details>
 
-## 📍 07_manual board
+## 📍 07_manual board Page
 <details>
  <summary>매뉴얼 게시판 전체 조회</summary>
 
@@ -338,7 +344,7 @@
 
 </details>
 
-## 📍 08_notice board
+## 📍 08_notice board Page
 <details>
  <summary>공지사항 게시판 전체 조회</summary>
 
@@ -364,8 +370,8 @@
 
 </details>
 
-## 📍 09_like
-<details>
+## 📍 09_like Page
+<details> 
  <summary>매뉴얼 게시글 좋아요 등록</summary>
   
 </details><details>
@@ -373,7 +379,7 @@
     
 </details>
 
-## 📍 10_task
+## 📍 10_task Page
 <details>
  <summary>특정 매장의 모든 업무 조회</summary>
 
@@ -402,7 +408,7 @@
  <summary>특정 매장의 업무 1개 삭제</summary>
 </details>
 
-## 📍 11_checklist
+## 📍 11_checklist Page
 <details>
  <summary>특정 매장의 모든 체크리스트 조회</summary>
 
@@ -423,7 +429,7 @@
  <summary>특정 매장의 특정 체크리스트 삭제</summary>
 </details>
 
-## 📍 12_task per checklist
+## 📍 12_task per checklist Page
 <details>
  <summary>특정 체크리스트 내 전체 업무 조회</summary>
 
